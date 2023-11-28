@@ -1,4 +1,7 @@
 ## Born2BeRoot Guide 
+
+![born2beroot](https://github.com/byaliego/42-project-badges/blob/main/badges/born2beroote.png?raw=true)
+
 This guide has 8 Parts: 
 - Part 1 - Downloading Your Virtual Machine
 - Part 2 - Installing Your Virtual Machine
